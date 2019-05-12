@@ -3,5 +3,5 @@ Type=Application
 Name=Install ArcoLinuxD
 Comment=Installer for ArcoLinuxD
 Categories=Utility;
-Exec=pkexec --disable-internal-agent /usr/bin/calamares
+Exec=pkexec calamares
 Icon=arco-calamares
