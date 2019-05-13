@@ -3,5 +3,5 @@ Type=Application
 Name=Install ArcoLinuxD
 Comment=Installer for ArcoLinuxD
 Categories=Utility;
-Exec=pkexec calamares
+Exec=pkexec /usr/bin/calamares
 Icon=arco-calamares
