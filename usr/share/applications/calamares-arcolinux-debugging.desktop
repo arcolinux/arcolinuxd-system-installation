@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Name=Install ArcoLinuxD with debugging mode on
+Comment=Installer for ArcoLinuxD to debug
+Categories=Utility;
+Exec=pkexec calamares -d
+Icon=arco-calamares
